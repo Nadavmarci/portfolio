@@ -10,7 +10,7 @@ Each project includes code, analysis, and a final report.
 ### 1. Deep Learning – Diffusion Models for Metasurface Prediction
 - Implemented a **class-conditioned diffusion model (UNet, Hugging Face)** to predict metasurface patterns from light scattering data.  
 - Dataset: 25,000 metasurface samples (Nano-Photonics Lab, TAU).  
-- Results: 98.6% accuracy, 0.995 precision, 0.995 recall.  
+- Results: The diffusion model successfully reconstructed metasurface patterns with high fidelity, achieving near-perfect metrics on the provided dataset.  
 - [Repository Link](https://github.com/Nadavmarci/deep_learning_final_project)
 
 ---
