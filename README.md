@@ -40,7 +40,7 @@ Each project includes code, analysis, and a final report.
 
 ---
 
-# Certificate Projects (Bar-Ilan University)
+## Certificate Projects (Bar-Ilan University)
 
 1. Data Science Certificate – Product Demand Prediction for Inventory Management  
    - Conducted as part of the Bar-Ilan University **Data Science Certificate Program**.  
