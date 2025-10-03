@@ -48,7 +48,7 @@ Each project includes code, analysis, and a final report.
    - Applied Apriori algorithms for frequent itemset mining, feature engineering, and machine learning models (Logistic Regression, Random Forest, Gradient Boosting, AdaBoost).  
    - Results: AdaBoost achieved the best performance (Test AUC ≈ 0.80).  
    - Deliverables include a detailed PDF report and Colab notebooks.  
-   - [Repository Link](https://github.com/your-username/data_science_certificate_bar_ilan)
+   - [Repository Link](https://github.com/Nadavmarci/data_science_certificate_bar_ilan)
 
 ---
 
