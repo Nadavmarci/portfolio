@@ -1,11 +1,12 @@
-### Applied Projects
-#### Voice AI Platform & Dialer CRM
-* **Context**: Developed as a technical assessment for a software engineering role.
-* **Objective**: Build a scalable system for automated AI voice calling campaigns.
-* **Core Tech**: Leveraged Vapi API for low-latency voice streaming and Google Gemini for dynamic prompt generation and call handling logic.
-* **Outcome**: A functional CRM integration that automates outreach, transcribes conversations, and classifies lead intent in real-time using FastAPI and SQLite.
-* [Repository Link](https://github.com/Nadavmarci/VoiceAI_Lead_Management)
+## Professional Work & Assignments
 
+### Voice AI Platform & Dialer CRM
+- Developed a comprehensive platform for engineering dynamic AI voice assistants and executing automated calling campaigns.
+- Integrated **Google Gemini** for intelligent prompt engineering and **Vapi API** for real-time, low-latency voice communication.
+- Implemented a **FastAPI** backend with **SQLite** for robust lead management, real-time analytics, and automated interaction history.
+- [Repository Link](https://github.com/Nadavmarci/VoiceAI_Lead_Management)
+
+---
 
 # Academic Projects Portfolio
 
