@@ -1,9 +1,10 @@
 # Professional Work & Assignments
 
 ### Voice AI Platform & Dialer CRM
-- Developed a comprehensive platform for engineering dynamic AI voice assistants and executing automated calling campaigns.
-- Integrated **Google Gemini** for intelligent prompt engineering and **Vapi API** for real-time, low-latency voice communication.
-- Implemented a **FastAPI** backend with **SQLite** for robust lead management, real-time analytics, and automated interaction history.
+- Developed an end-to-end platform for building and deploying AI voice assistants via natural language interaction.
+- **Agent Builder**: Implemented an AI-driven interface where users define agent behavior and prompt logic through conversation.
+- **Automated Workflow**: Built an automated pipeline that ingests lead lists, executes outbound calling campaigns using **Vapi API**, and performs real-time lead qualification.
+- **Analytics & CRM**: Integrated **FastAPI** and **SQLite** to manage lead data, track call outcomes, and provide actionable insights from interaction history.
 - [Repository Link](https://github.com/Nadavmarci/VoiceAI_Lead_Management)
 
 ---
