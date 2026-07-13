@@ -1,3 +1,12 @@
+### Applied Projects
+#### Voice AI Platform & Dialer CRM
+* **Context**: Developed as a technical assessment for a software engineering role.
+* **Objective**: Build a scalable system for automated AI voice calling campaigns.
+* **Core Tech**: Leveraged Vapi API for low-latency voice streaming and Google Gemini for dynamic prompt generation and call handling logic.
+* **Outcome**: A functional CRM integration that automates outreach, transcribes conversations, and classifies lead intent in real-time using FastAPI and SQLite.
+* [Repository Link](https://github.com/Nadavmarci/VoiceAI_Lead_Management)
+
+
 # Academic Projects Portfolio
 
 This repository contains selected academic projects completed during my M.Sc. studies in Electrical Engineering (Machine Learning & Computer Vision track) at Tel Aviv University.  
