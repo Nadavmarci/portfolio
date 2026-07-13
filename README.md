@@ -1,4 +1,4 @@
-## Professional Work & Assignments
+# Professional Work & Assignments
 
 ### Voice AI Platform & Dialer CRM
 - Developed a comprehensive platform for engineering dynamic AI voice assistants and executing automated calling campaigns.
